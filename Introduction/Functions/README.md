@@ -22,10 +22,14 @@ This folder contains examples of using functions in C to demonstrate their diffe
 ## Compilation and Execution
 
 To compile and run these programs:
-1. Compile using the GCC compiler:
+1. Use the GCC compiler:
+   ```bash
    gcc file_name.c -o output_name
-2. Execute the program:
+   ```
+2. Run the executable:
+   ```bash
    ./output_name
+   ```
 
 ## How to Use
 
