@@ -1,0 +1,3 @@
+Este es un ejemplo de gestión de archivos en C.
+Puedes escribir texto usando fprintf.
+Este texto se añadió al final del archivo.
