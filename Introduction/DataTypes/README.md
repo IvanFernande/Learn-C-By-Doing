@@ -27,11 +27,11 @@ This folder demonstrates the use of various data types in C, including basic typ
 ## Compilation and Execution
 
 To compile and run these programs:
-1. Compile using the GCC compiler:
-  ```bash
+1. Use the GCC compiler:
+   ```bash
    gcc file_name.c -o output_name
-  ```
-2. Execute the program:
+   ```
+2. Run the executable:
    ```bash
    ./output_name
    ```
